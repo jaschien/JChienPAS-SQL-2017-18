@@ -7,3 +7,6 @@ Today, we discussed three aspects of an ER diagram – attributes, entities, and
 
 9/4
 Today, we reviewed the concepts of an ER model, and later worked on an ER model of a hotel branch. Regarding the hotel branch, we came up with six different entities – parking, transaction, guests, shareholders, employees, and services. After identifying the entities, we labeled the relationships between the entities, one of them being a recursive relationship (employee supervising employee). For homework, we have to revise the ER model so that all the primary functions of a hotel branch is included.
+
+9/7
+Today, we asked and discussed Ch3 homework questions, during which Mr. Ting demonstrated an example of an identifying relationship of a weak entity in a degree greater than two. Later, the class played kodenames to review the concepts and vocabulary of database terms we've learned so far.
