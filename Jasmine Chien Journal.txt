@@ -10,3 +10,9 @@ Today, we reviewed the concepts of an ER model, and later worked on an ER model 
 
 9/7
 Today, we asked and discussed Ch3 homework questions, during which Mr. Ting demonstrated an example of an identifying relationship of a weak entity in a degree greater than two. Later, the class played kodenames to review the concepts and vocabulary of database terms we've learned so far.
+
+9/11
+Today, we played Jeopardy in class to review what we have learned so far. We all found the examples section particularly hard because those questions required us to draw out examples of specific ER models, which can become confusing as we try to figure out the relationship types. I found this exercise not only entertaining but also very effective in helping me review the content I have learned.
+
+9/14
+Today, we finished the last question from Jeopardy, and went onto a new exercise in which we practiced building an ER model for an occupation. The process of building ER models through randomly given cards helped reinforce our concepts of the components of an ER model. Further, the exercise trained our ability to be creative (but also practical) as we sought to explain the entities and relationship types of the occupation we received.
