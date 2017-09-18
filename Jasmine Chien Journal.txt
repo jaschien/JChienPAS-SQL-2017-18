@@ -16,3 +16,6 @@ Today, we played Jeopardy in class to review what we have learned so far. We all
 
 9/14
 Today, we finished the last question from Jeopardy, and went onto a new exercise in which we practiced building an ER model for an occupation. The process of building ER models through randomly given cards helped reinforce our concepts of the components of an ER model. Further, the exercise trained our ability to be creative (but also practical) as we sought to explain the entities and relationship types of the occupation we received.
+
+9/18
+Today, we learned about the relational model, schema, and foreign keys. We then drew our ER models on scrap papers and had to identify the relationship types and schemas. 
