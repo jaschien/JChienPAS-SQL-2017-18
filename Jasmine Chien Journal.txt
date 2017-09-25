@@ -19,3 +19,6 @@ Today, we finished the last question from Jeopardy, and went onto a new exercise
 
 9/18
 Today, we learned about the relational model, schema, and foreign keys. We then drew our ER models on scrap papers and had to identify the relationship types and schemas. 
+
+9/25
+Today, we asked questions about our Ch5 homework and discussed concepts such as the difference between a superkey and a key. Then, we started an exercise in which we built an ER model that corresponds to a relational database and practiced using IS-A relationships.
