@@ -22,3 +22,6 @@ Today, we learned about the relational model, schema, and foreign keys. We then 
 
 9/25
 Today, we asked questions about our Ch5 homework and discussed concepts such as the difference between a superkey and a key. Then, we started an exercise in which we built an ER model that corresponds to a relational database and practiced using IS-A relationships.
+
+10/2
+Today, we started class discussing about relational databases and normalization. In specific, Mr. Ting clarified on the concepts of 1NF, 2NF, and 3NF. Later, we finished an assignment on ER to relational databases and normalization.
