@@ -20,8 +20,21 @@ Today, we finished the last question from Jeopardy, and went onto a new exercise
 9/18
 Today, we learned about the relational model, schema, and foreign keys. We then drew our ER models on scrap papers and had to identify the relationship types and schemas. 
 
+9/21
+Today, we built two tables for the STUCO store – one included all the items and the other one included discounts. Through the activity, we learned that arrows in an ER model is used to identify the relationship between two entities, and that hierarchy relationships are used when entities are similar.
+
 9/25
 Today, we asked questions about our Ch5 homework and discussed concepts such as the difference between a superkey and a key. Then, we started an exercise in which we built an ER model that corresponds to a relational database and practiced using IS-A relationships.
 
+9/28
+Today, we learned about normalization and functional dependencies. 
+Notes:
+- Trivial A --> A
+- Non-trivial A --> B
+- Transitive A —> B, B —> C, B !—> A, so A —> C
+- Multivalued A -->> B
+
 10/2
 Today, we started class discussing about relational databases and normalization. In specific, Mr. Ting clarified on the concepts of 1NF, 2NF, and 3NF. Later, we finished an assignment on ER to relational databases and normalization.
+
+10/5
