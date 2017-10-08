@@ -38,3 +38,4 @@ Notes:
 Today, we started class discussing about relational databases and normalization. In specific, Mr. Ting clarified on the concepts of 1NF, 2NF, and 3NF. Later, we finished an assignment on ER to relational databases and normalization.
 
 10/5
+After the pop quiz, we organized the database of pizza restaurants into BCNF form. Mr. Ting also clarified on 1NF, 2NF, and 3NF once again using the keywords: The Key, The Whole Key, and Nothing but the Key.
