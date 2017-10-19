@@ -39,3 +39,29 @@ Today, we started class discussing about relational databases and normalization.
 
 10/5
 After the pop quiz, we organized the database of pizza restaurants into BCNF form. Mr. Ting also clarified on 1NF, 2NF, and 3NF once again using the keywords: The Key, The Whole Key, and Nothing but the Key.
+
+10/9
+On break.
+
+10/12
+We worked on our Ch10 homework.
+
+10/16
+I was absent.
+
+10/19
+What are the benefits of denormalization?
+- record keeping
+- programming is easier
+What are the downfalls of denormalization?
+- full of nulls
+- a lot of potential anomalies
+- generate spurious tuples
+Inference rules
+- IR1: reflexivity
+- IR2: augmentation
+- IR3: transitivity
+- IR4: Additivity or Union
+- IR5: Projectivity or Decomposition
+- IR6: Pseudo Transitivity 
+After reviewing denormalization and inference rules, we used sqlfiddle.com to work on coding.
