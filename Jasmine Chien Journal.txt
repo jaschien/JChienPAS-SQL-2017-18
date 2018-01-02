@@ -41,13 +41,13 @@ Today, we started class discussing about relational databases and normalization.
 After the pop quiz, we organized the database of pizza restaurants into BCNF form. Mr. Ting also clarified on 1NF, 2NF, and 3NF once again using the keywords: The Key, The Whole Key, and Nothing but the Key.
 
 10/9
-On break.
+(On break)
 
 10/12
 We worked on our Ch10 homework.
 
 10/16
-I was absent.
+(Absent)
 
 10/19
 What are the benefits of denormalization?
@@ -65,3 +65,57 @@ Inference rules
 - IR5: Projectivity or Decomposition
 - IR6: Pseudo Transitivity 
 After reviewing denormalization and inference rules, we used sqlfiddle.com to work on coding.
+
+10/23
+Today, we used SQLFiddle to practice MySQL commands. We learned how to interpret the database schema, query, and show data on the right side.
+
+10/25
+We continued our activity with SQLFiddle this class and received questions from the convenience store spreadsheets. Through this activity, we learned how to use sub-queries.
+
+10/30
+(PD Day)
+
+11/2
+(Absent)
+
+11/6
+We looked at a design-thinking powerpoint that discussed the concept "FU KISS CRAP," which is applicable to designing projects. Afterwards, we briefly discussed our projects.
+
+11/9
+This class, we continued using SQLFiddle to practice a question on the convenience store database. Then, we moved on to learn a new set of lessons on DataCamp.
+
+11/13
+The whole lesson was dedicated to practicing on DataCamp.
+
+11/16
+This class, we learned about different types of join operations and tried Inner, Outer, Left, Right, and Cross joins on SQLFiddle.
+
+11/20
+(PD Day)
+
+11/23
+(THIMUN Singapore)
+
+11/27
+This class was given to us to catch up on Datacamp exercises.
+
+11/30
+We spent most of the class attempting to download LibreOffice. The download was not very successful because LibreOffice continued to quit unexpectedly when I tried to save my database, but it worked out in the end.
+
+12/4
+This class was dedicated to discussing our Chapter 6 homework, which contained several questions on relational calculus and relational algebra that were hard to understand initially.
+
+12/7
+This class was given to us to work on our LibreOffice projects.
+
+12/11
+This class was given to us to work on our LibreOffice projects. A lot of the students encountered problems on setting autovalues, but eventually fixed the issue through rebuilding their tables (including me).
+
+12/14
+This class was given to us to work on our LibreOffice projects. I worked on creating queries.
+
+12/18
+This class was given to us to work on our LibreOffice projects. I tried to understand what subforms are. (still not quite there yet!)
+
+12/20
+This class was given to us to work on our LibreOffice projects. I struggled with understanding reports and overall setting up the logistics of my database.
