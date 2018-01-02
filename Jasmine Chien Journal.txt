@@ -70,7 +70,7 @@ After reviewing denormalization and inference rules, we used sqlfiddle.com to wo
 Today, we used SQLFiddle to practice MySQL commands. We learned how to interpret the database schema, query, and show data on the right side.
 
 10/25
-We continued our activity with SQLFiddle this class and received questions from the convenience store spreadsheets. Through this activity, we learned how to use sub-queries.
+We continued our activity with SQLFiddle this class and practiced how to use sub-queries through getting questions on the convenience store database.
 
 10/30
 (PD Day)
@@ -79,13 +79,13 @@ We continued our activity with SQLFiddle this class and received questions from 
 (Absent)
 
 11/6
-We looked at a design-thinking powerpoint that discussed the concept "FU KISS CRAP," which is applicable to designing projects. Afterwards, we briefly discussed our projects.
+Mr. Ting presented a design-thinking powerpoint and discussed the acronym "FU KISS CRAP" with us, which is essentially applicable to all project designs. After that, we took some time to discuss our upcoming project.
 
 11/9
-This class, we continued using SQLFiddle to practice a question on the convenience store database. Then, we moved on to learn a new set of lessons on DataCamp.
+This class, we continued to practice a question on the convenience store database on SQLFiddle. Then, we moved on to DataCamp.
 
 11/13
-The whole lesson was dedicated to practicing on DataCamp.
+The whole class was dedicated to practicing on DataCamp.
 
 11/16
 This class, we learned about different types of join operations and tried Inner, Outer, Left, Right, and Cross joins on SQLFiddle.
@@ -100,19 +100,19 @@ This class, we learned about different types of join operations and tried Inner,
 This class was given to us to catch up on Datacamp exercises.
 
 11/30
-We spent most of the class attempting to download LibreOffice. The download was not very successful because LibreOffice continued to quit unexpectedly when I tried to save my database, but it worked out in the end.
+We spent most of the class attempting to download LibreOffice. The download was not very successful for me because LibreOffice continued to quit unexpectedly when I tried to save my database, but it worked out in the end.
 
 12/4
-This class was dedicated to discussing our Chapter 6 homework, which contained several questions on relational calculus and relational algebra that were hard to understand initially.
+This class was dedicated to discussing our Chapter 6 homework, which contained questions on relational calculus and relational algebra, which were hard to understand initially.
 
 12/7
 This class was given to us to work on our LibreOffice projects.
 
 12/11
-This class was given to us to work on our LibreOffice projects. A lot of the students encountered problems on setting autovalues, but eventually fixed the issue through rebuilding their tables (including me).
+This class was given to us to work on our LibreOffice projects. I encountered problems on setting autovalues, but eventually fixed the issue through rebuilding all my tables.
 
 12/14
-This class was given to us to work on our LibreOffice projects. I worked on creating queries.
+This class was given to us to work on our LibreOffice projects. I worked on creating queries for my database.
 
 12/18
 This class was given to us to work on our LibreOffice projects. I tried to understand what subforms are. (still not quite there yet!)
