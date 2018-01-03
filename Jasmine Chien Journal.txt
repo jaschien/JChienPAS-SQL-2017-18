@@ -67,7 +67,7 @@ Inference rules
 After reviewing denormalization and inference rules, we used sqlfiddle.com to work on coding.
 
 10/23
-Today, we used SQLFiddle to practice MySQL commands. We learned how to interpret the database schema, query, and show data on the right side.
+Today, we used SQLFiddle to practice MySQL commands. We learned about database schema, query, and displaying data.
 
 10/25
 We continued our activity with SQLFiddle this class and practiced how to use sub-queries through getting questions on the convenience store database.
@@ -85,7 +85,7 @@ Mr. Ting presented a design-thinking powerpoint and discussed the acronym "FU KI
 This class, we continued to practice a question on the convenience store database on SQLFiddle. Then, we moved on to DataCamp.
 
 11/13
-The whole class was dedicated to practicing on DataCamp.
+The whole class was dedicated to practicing SQL on DataCamp.
 
 11/16
 This class, we learned about different types of join operations and tried Inner, Outer, Left, Right, and Cross joins on SQLFiddle.
@@ -103,7 +103,7 @@ This class was given to us to catch up on Datacamp exercises.
 We spent most of the class attempting to download LibreOffice. The download was not very successful for me because LibreOffice continued to quit unexpectedly when I tried to save my database, but it worked out in the end.
 
 12/4
-This class was dedicated to discussing our Chapter 6 homework, which contained questions on relational calculus and relational algebra, which were hard to understand initially.
+This class was dedicated to discussing our Chapter 6 homework.
 
 12/7
 This class was given to us to work on our LibreOffice projects.
@@ -115,7 +115,11 @@ This class was given to us to work on our LibreOffice projects. I encountered pr
 This class was given to us to work on our LibreOffice projects. I worked on creating queries for my database.
 
 12/18
-This class was given to us to work on our LibreOffice projects. I tried to understand what subforms are. (still not quite there yet!)
+This class was given to us to work on our LibreOffice projects. In this class, I focused on:
+- learning subforms
+- rebuilding my tables to fix logistic problems
 
 12/20
-This class was given to us to work on our LibreOffice projects. I struggled with understanding reports and overall setting up the logistics of my database.
+This class was given to us to work on our LibreOffice projects. In this class, I focused on:
+- learning reports
+- fixing my queries
